@@ -5,4 +5,8 @@ rrrrr
 555555
 6666
 99999999999
+<<<<<<< HEAD
 aaaaaaaaaa
+=======
+ppppppp
+>>>>>>> fenzhi1
