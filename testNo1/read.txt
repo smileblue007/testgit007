@@ -1,0 +1,12 @@
+111111
+222222
+wwww
+rrrrr
+555555
+6666
+99999999999
+<<<<<<< HEAD
+aaaaaaaaaa
+=======
+ppppppp
+>>>>>>> fenzhi1
